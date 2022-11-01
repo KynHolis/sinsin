@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Sin-Sin'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACD88565CC9E4B269BFE560F8E4E6F3D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_71303B7C39764EF781A7D700E23CCD20 }}
           package: .
